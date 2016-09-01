@@ -1,0 +1,188 @@
+.contenedor{
+	width: 70%;
+	margin:0 auto;
+	padding:15px;
+}
+
+.box{
+	background-color: #333232;
+}
+
+.inicio{
+	
+	text-align: center;
+	padding-left: 10px;
+	color: white;
+}
+
+.links{
+	color: white;
+	margin-top:70px;
+}
+
+div{
+	font-family: Arial;
+}
+
+a{
+	text-decoration:none;
+	color:#2196F3;
+	text-align: center;
+}
+
+nav a{
+	color: #fff;
+	font-size: 14px;
+	margin: 2% 1%;
+	padding: 2% 1%;
+	display: inline-block;
+}
+
+.logo{
+	width: 70px;
+}
+
+h3{
+	padding-left: 1%;
+	display: inline-block;
+	margin-bottom: 1%;
+	color: #54575C;
+}
+.boxgrey{
+	background-color: #E8E8E8;
+	
+}
+.boxgrey a{
+	font-size:12px;
+
+}
+.episodes{
+	background-color: #E8E8E8;
+	padding: 1%;
+	text-align: center;
+	font-weight: bold;
+
+}
+.episodes a{
+	color:#2196F3;
+	font-size: 18px;
+}
+
+.margin-white{
+	border:4px solid white;
+	width: 100%;
+	box-shadow: 0 1px 1px 0 ;
+}
+
+.menu{
+	margin: 2% auto;
+	padding: 2%;
+}
+
+.photo{
+	width: 20%;
+	margin: 1% auto;
+	text-align: center;
+}
+
+.sidebar{
+	margin: 3% auto;
+	padding: 1% 1% 1% 3%;
+}
+
+.sidebar h3{
+	color:#5d5959;
+	border-bottom: 2px solid #adabab;
+	display: block;
+	margin-left: 1%;
+	margin-top: 1%;
+	padding: 0;
+}
+
+.sidebar img{
+	width: 15px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.sidebar a{
+	margin: 1%;
+	display: inline-block;
+}
+
+.linea-side {
+	padding: 2%;
+	border-top: 2px solid #adabab;
+}
+
+.linea-side a{
+	display: inline;
+	margin: 0;
+}
+
+hr{
+
+border: 1px solid #CBCDD1 ;
+
+}
+
+.pocket, .radio, .mac, .itunes, .master{
+	width: 14px;
+}
+.uno{
+	margin-top: 25px;
+}
+.dos{
+	margin-top: 15px;
+}
+.tres{
+	margin-top: 10px;
+}
+.cuatro{
+	margin-top: 20px;
+}
+
+.ab{
+
+margin-top: 10px;
+}
+
+.ban{
+	margin-top: 15px;
+}
+footer{
+	margin-bottom: 1%;
+	clear: both;
+	padding: 2% 1%;
+	background-color: #5d5959;
+	color: #fff;
+	font-size: 17px;
+}
+
+footer p{
+	padding: 1%;
+}
+
+footer a{
+	color:#A1A1A1;
+}
+
+aside{
+	margin-top: 50px;
+}
+
+.link-footer{
+	text-align: center;
+	margin: 1%;
+}
+
+.link-footer a{
+	margin:1%;
+}
+
+.copyright{
+	margin: 1% auto;
+	text-align: center;
+	font-size:14px;
+	color:#AEACAC;
+}
